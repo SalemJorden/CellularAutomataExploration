@@ -1,10 +1,12 @@
- # Cellular Automata Exploration 
-I am building a simulator to observe the emergence of complexity in cellular automata into intelligent agents. I am interested in complexity theory, dynamics, art, evolutionary biology, and computational biology. I am doing this project as a way to integrate all of these passions of mine at their respective intersections. Let's begin by defining the terms cellular automata and intelligent agent.
+ # Life Bytes
+*Note: This is a public facing README.md for a private project repository. *
+I am building a simulator to observe the emergence and complexity in cellular automata. I am interested in complexity theory, software dynamics, art, and artificial life (ALife). I am doing this project as a way to integrate all of these passions of mine at their respective intersections. Let's begin by defining the terms cellular automata and intelligent agent.
 
 ## Cellular automata: 
 A cellular automaton is a discrete, dynamic model that is made up of a grid of cells. Each cell can be in a certain state, and the state of each cell can change over time, depending on the states of the cells around it. This means that it is a system that is made up of a finite number of discrete states, and that the state of the system changes over time in a discrete manner. The state of the system at any given time is determined by the states of the system at the previous time and by the rules that govern the system.
 The rules that govern  cellular automata are typically very simple. However, the behavior of a cellular automata can be very complex, even with simple rules. This is because the behavior of the system is determined by the interactions between the cells, and these interactions can be very complex, even with simple rules. 
 Cellular automata are often used to simulate the behavior of physical systems, such as the spread of disease, the emergence of life, or the behavior of the brain.
+
 ## Intelligent Agent:
 A system that can reason, learn, and act autonomously. It can perceive its environment and make decisions based on its understanding of the world. Intelligent agents are often used in artificial intelligence (AI) applications, such as robotics, natural language processing, and game playing.
 ### Key features of an intelligent agent:
